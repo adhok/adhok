@@ -25,4 +25,3 @@ Tools I use occasionly
 - 🌱 I’m currently learning Deep Learning using Tensorflow
 - 👯 I’m looking to collaborate on solving problems for businesses and startups
 - 📫 How to reach me: padhokshaja@gmail.com
-- ⚡ Fun fact: I can play the tabla 
