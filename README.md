@@ -20,12 +20,7 @@ Tools I use occasionly
 * Python : Tensorflow
 
 
-
-
-
- 
-
-
+### A few snippets about me 🐣
 
 - 🌱 I’m currently learning Deep Learning using Tensorflow
 - 👯 I’m looking to collaborate on solving problems for businesses and startups
