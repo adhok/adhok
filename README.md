@@ -3,7 +3,7 @@
 
 ### Hi there 👋👋👋
 
-
+![](https://raw.githubusercontent.com/adhok/adhok/main/IMG_20211209_094358.jpg)
 
 
 I am Pradeep Adhokshaja and I am a student data science. When I am not coding, I like to cook , travel and go on hikes.
