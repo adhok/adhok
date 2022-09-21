@@ -23,5 +23,5 @@ Tools I use occasionly
 ### A few snippets about me 🐣
 
 - 🌱 I’m currently learning Deep Learning using Tensorflow
-- 👯 I’m looking to collaborate on solving problems for businesses and startups
+- 👯 I’m looking for remote data science opportunities.
 - 📫 How to reach me: padhokshaja@gmail.com
